@@ -1,53 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=220&section=header&text=Abitien%20Ahmad%20Fahrel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=140&section=header&text=Abitien%20Ahmad%20Fahrel&fontSize=36&fontColor=ffffff&fontAlignY=50" />
+</p>
+
+<p align="center" style="font-size:14px;">
+  Informatics Engineering Student · Game Developer · Web Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=0F172A&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Game+Developer+%7C+Web+Developer;Building+Interactive+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1200&color=CBD5E1&center=true&vCenter=true&width=700&lines=Building+Interactive+Systems;Designing+Clean+Digital+Experiences;Focused+on+Quality+and+Scalability" />
 </p>
 
-<br/>
+<hr/>
 
-## 👤 About Me
+## Profile
 
-I am **Abitien Ahmad Fahrel**, an Informatics Engineering student with a strong focus on **game development** and **web development**.  
-I am passionate about building interactive applications, immersive games, and clean, functional digital products.
+I am **Abitien Ahmad Fahrel**, an Informatics Engineering student with a strong interest in **game development** and **web development**.  
+I focus on building structured systems, interactive applications, and digital products that are clean, maintainable, and scalable.
 
-I believe in continuous improvement, clean architecture, and turning ideas into impactful solutions.
-
----
-
-## 🎯 Focus Areas
-
-- 🎮 **Game Development** — Unity, C#  
-- 🌐 **Web Development** — HTML, Tailwind CSS, JavaScript  
-- 🧠 **Software Engineering** — Clean Code, Scalable Systems  
-- 🔧 **Version Control** — Git & GitHub  
+My work emphasizes clarity, performance, and long-term sustainability.
 
 ---
 
-## 🧰 Tech Stack
+## Areas of Focus
+
+- Game Development (Unity, C#)  
+- Web Development (HTML, Tailwind CSS, JavaScript)  
+- Software Engineering Principles  
+- Version Control & Collaboration  
+
+---
+
+## Technology Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,tailwind,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,tailwind,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌍 Portfolio
-🔗 https://portofolio-abitien-ahmad-fahrel.vercel.app/
+## Portfolio
 
-## 💼 LinkedIn
-🔗 https://www.linkedin.com/in/abitien-ahmad-fahrel
+<p align="left">
+  <a href="https://portofolio-abitien-ahmad-fahrel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧩 Philosophy
+## LinkedIn
 
-> *"I don't just write code. I design experiences, build systems, and craft digital products with purpose."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/abitien-ahmad-fahrel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Philosophy
+
+> I focus on building systems that are not only functional, but structured, efficient, and ready for real-world use.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=160&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=100&section=footer" />
 </p>
