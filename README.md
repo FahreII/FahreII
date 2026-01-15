@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,cpp,cs,figma,photoshop,blender,godot,unity&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,cpp,cs,figma,photoshop,blender,godot,unity&perline=9" />
 </p>
 
 
