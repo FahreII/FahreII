@@ -1,9 +1,7 @@
-<h1 align="center>
-  Abitien Ahmad Fahrel
-</h1>
+"paling atas saya mau ada tekstur seperti ombak lalau ada nama Abitien Ahmad Fahrel dengan format h1"
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=520&lines=Abitien+Ahmad+Fahrel;Game+Developer;Frontend+Developer;Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=520&lines=Game+Developer;Frontend+Developer;Designer" />
 </h1>
 
 <p align="center">
