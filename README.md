@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=ABITIEN%20AHMAD%20FAHREL&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h1>ABITIEN AHMAD FAHREL</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Game+Developer+%7C+Software+Engineer;Unity+%7C+C%23+%7C+C%2B%2B+Developer;Creative+Technologist;Building+Interactive+Digital+Worlds" />
+<!-- Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Game+Developer+%7C+Software+Engineer;Unity+%7C+C%23+%7C+C%2B%2B+Developer;Creative+Technologist;Building+Interactive+Digital+Worlds" />
 
 </div>
 
@@ -55,6 +54,27 @@ I combine **programming, game mechanics, and visual design** to create immersive
 
 ---
 
+## GITHUB PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ## ACTIVE FOCUS
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -86,8 +106,6 @@ I combine **programming, game mechanics, and visual design** to create immersive
 
 ## CONNECT
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abitien-ahmad-fahrel" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" />
@@ -106,6 +124,6 @@ I combine **programming, game mechanics, and visual design** to create immersive
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
