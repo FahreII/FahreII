@@ -16,10 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,cpp,cs,figma,photoshop,blender,godot,unity&perline=6" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FahreII&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahreII&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahreII&theme=github-compact&hide_border=true" />
