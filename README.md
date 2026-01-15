@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontAlignY=55&height=90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=100000&color=6C63FF&center=true&vCenter=true&width=650&lines=Abitien+Ahmad+Fahrel" />
 </h1>
 
 
