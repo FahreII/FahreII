@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontAlignY=55&height=90" />
+  <img src="https://text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontAlignY=55&height=90" />
 </h1>
 
 
