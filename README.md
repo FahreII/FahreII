@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=&fontSize=0" />
 </p>
 
-<h1 align="center">Abitien Ahmad Fahrel</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontAlignY=55&height=90" />
+</h1>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=520&lines=Game+Developer;Frontend+Developer;Designer" />
