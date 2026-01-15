@@ -1,61 +1,66 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/samir.gif" width="100%" />
+<!-- HERO ANIMATED BANNER -->
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/hero.gif" width="100%" />
 
 <h1>ABITIEN AHMAD FAHREL</h1>
-<h3>Game Developer • Software Engineer • Creative Technologist</h3>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Games;Unity+Developer+%7C+C%23+Programmer;Creative+Coding+and+3D+Design;Focused+on+Game+Systems+and+UX" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Software+Engineer;Unity+%7C+C%23+%7C+C%2B%2B+Developer;Creative+Technologist;Building+Interactive+Digital+Worlds" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/scanline.gif" width="100%" height="4"/>
 
 </div>
 
 ---
 
-## About Me
+## SYSTEM PROFILE
 
-I am a **Game Developer and Software Engineer** with a strong focus on building interactive experiences using **Unity, C#, C++, and modern web technologies**.  
-I combine **programming, game design, and visual creation** to deliver immersive and polished digital products.
+<img align="right" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/avatar.gif" width="180"/>
+
+**Name:** Abitien Ahmad Fahrel  
+**Role:** Game Developer • Software Engineer  
+**Specialization:** Game Systems, Interactive Design, 3D & Visual Tech  
+**Status:** Active Developer  
+
+I design and build **interactive experiences** using **Unity, C#, C++, and modern web technologies**.  
+My work focuses on **gameplay systems, immersive visuals, and clean architecture**.
 
 ---
 
-## Tech Stack
+## SKILL MATRIX
 
-<p align="left">
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/line.gif" width="100%"/>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,cpp,cs,unity,blender,photoshop&theme=dark" />
 </p>
 
 ---
 
-## Skills & Expertise
+## CORE MODULES
 
 <table>
 <tr>
 <td width="50%">
 
-### Game Development
+### GAME DEVELOPMENT
 - Unity Engine (2D & 3D)
-- Gameplay Mechanics
+- Gameplay Programming
 - UI & HUD Systems
-- Scene & State Management
-
-### Programming
-- C#
-- C++
-- JavaScript
+- Scene Management
+- Player Controller Systems
 
 </td>
 <td width="50%">
 
-### Creative & Visual
+### SOFTWARE & CREATIVE
+- C# Application Logic
+- C++ Systems Programming
 - Blender (3D Modeling)
-- Photoshop (UI & Texture Design)
-
-### Web Development
-- HTML5
-- Tailwind CSS
-- Responsive UI
+- Photoshop (UI / Texture)
+- Web Interface Design
 
 </td>
 </tr>
@@ -63,46 +68,52 @@ I combine **programming, game design, and visual creation** to deliver immersive
 
 ---
 
-## Currently Working On
+## ACTIVE OPERATIONS
 
-- Game mechanics & player experience  
-- Unity performance optimization  
-- UI systems & interaction design  
-- Interactive web components  
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/progress.gif" width="100%"/>
+
+- Developing game mechanics & systems  
+- Optimizing performance in Unity  
+- Designing UI/UX for games  
+- Building interactive web interfaces  
 
 ---
 
-## Tools
+## TOOLCHAIN
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp/239120" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
+
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/csharp/239120" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/blender/F5792A" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42"/>
+
 </div>
 
 ---
 
-## Connect With Me
+## CONNECT
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/line2.gif" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abitien-ahmad-fahrel" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://portofolio-abitien-ahmad-fahrel.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" />
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="34"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/USERNAME" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="34"/>
   </a>
 </p>
 
@@ -110,6 +121,6 @@ I combine **programming, game design, and visual creation** to deliver immersive
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/samir.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/footer.gif" width="100%" />
 
 </div>
