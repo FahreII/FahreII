@@ -4,8 +4,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=100000&color=6C63FF&center=true&vCenter=true&width=650&lines=Abitien+Ahmad+Fahrel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=44&duration=6000&pause=100000&color=6C63FF&center=true&vCenter=true&width=700&lines=Abitien+Ahmad+Fahrel" />
 </h1>
+
 
 
 <h2 align="center">
