@@ -42,3 +42,8 @@
     <img src="https://img.shields.io/badge/itch.io-000000?style=flat&logo=itch.io&logoColor=white">
   </a>
 </p>
+
+<!-- WAVE FOOTER (INVERTED) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=160&section=footer&flip=true&text=&fontSize=0" />
+</p>
