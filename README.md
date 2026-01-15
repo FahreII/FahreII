@@ -1,10 +1,10 @@
 <!-- WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#EEEEEE&height=180&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=&fontSize=0" />
 </p>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontColor=6C63FF&height=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Abitien%20Ahmad%20Fahrel&fontSize=42&fontColor=#EEEEEE&height=80&animation=fadeIn" />
 </h1>
 
 
