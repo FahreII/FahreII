@@ -1,8 +1,13 @@
-"paling atas saya mau ada tekstur seperti ombak lalau ada nama Abitien Ahmad Fahrel dengan format h1"
+<!-- WAVE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=&fontSize=0" />
+</p>
+
+<h1 align="center">Abitien Ahmad Fahrel</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=520&lines=Game+Developer;Frontend+Developer;Designer" />
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FahreII&label=Views&color=6C63FF&style=flat" />
@@ -17,7 +22,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,cpp,cs,figma,photoshop,blender,godot,unity&perline=11" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahreII&theme=github-compact&hide_border=true" />
