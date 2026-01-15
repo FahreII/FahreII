@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  Passionate in game development, programming, and digital design.  
-  Focused on building interactive experiences and clean user interfaces.
+  Fokus pada pengembangan game dan web, khususnya pada pembuatan sistem dan tampilan aplikasi.<br>
+  Saat ini terus mengembangkan kemampuan agar dapat membangun aplikasi yang stabil dan mudah digunakan.
 </p>
 
 <p align="center">
